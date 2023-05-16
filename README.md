@@ -2,7 +2,7 @@
  <p>Real time Bus tracker app, shows stops between MIT & Harvard in Boston Area</p>
 <h2>Improvements included were:</h2>
 <ul>
-  <li>Added a ployline highlighting the bus route</li>
+  <li>Added a polyline highlighting the bus route</li>
   <li>Added marker at each bus-stop to locate easily on the bus route</li>
   <li>Toolotip for bus stop</li>
 </ul>  
