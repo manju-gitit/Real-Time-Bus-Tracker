@@ -18,4 +18,4 @@
   <li>Add Bustop name, image etc. to the Marker</li>
   <li>Travel time between stops    </li>
 <h2>License information:</h2>
-  MIT License Copyright (c) 2023 Manjula Kasireddy
+ MIT License Copyright (c) 2023 Manjula Kasireddy
