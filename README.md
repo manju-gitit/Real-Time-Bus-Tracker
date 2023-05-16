@@ -8,7 +8,7 @@
 </ul>  
 <h2>How to Run:</h2>
 <ul>
-  <li>clone this repo git@github.com:manju-gitit/manju-gitit.github.io.git </li>
+  <li>clone this repo git@github.com:manju-gitit/Real-Time-Bus-Tracker.git </li>
   <li>cd Real Time Bus Tracker/ </li>
   <li>load the index.html page in your browser and click'Show stops between MIT & Harvard' button </li>
 </ul>  
